@@ -1,5 +1,7 @@
 # Responsive Blog Layout
 
+![Project Screenshot](screenshot.png)
+
 This project demonstrates a simple responsive blog layout built with HTML and CSS. It includes media queries for adapting the layout to different screen sizes.
 
 ## Features
